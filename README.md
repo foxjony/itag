@@ -1,6 +1,6 @@
 # Source code iTag Bluetooth 4.0 for Android APK
 
-Kodular IDE
+Source code iTag.aia for Kodular IDE
 https://www.kodular.io
 
 MIT App Inventor Extensions
