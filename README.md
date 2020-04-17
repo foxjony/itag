@@ -8,3 +8,6 @@ https://mit-cml.github.io/extensions/
 
 Download BluetoothLE.aix
 http://iot.appinventor.mit.edu/assets/resources/edu.mit.appinventor.ble-20190701.aix
+
+Community forum 
+https://community.kodular.io/t/source-code-itag-mle-15-bluetooth-4-0-le/58734
