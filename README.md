@@ -1,4 +1,4 @@
-# Source code iTag Bluetooth 4.0 for Android APK
+# Source code iTag MLE-15 Bluetooth 4.0 for Android APK
 
 Source code iTag.aia for Kodular IDE
 https://www.kodular.io
