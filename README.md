@@ -1,8 +1,8 @@
-# Source code iTag MLE-15 Bluetooth 4.0 (BLE) for Android APK
+# Source code iTAG, MLE-15 Bluetooth 4.0 (BLE) for Android APK
 
-My source code supports MLE-15 and iTAG, and does not support TrackerPA.
+My source code supports iTAG and MLE-15, and does not support TrackerPA.
 
-MLE-15, iTAG - two short beeps sound when turned on.
+iTAG, MLE-15 - two short beeps sound when turned on.
 TrackerPA - three short beeps when turned on.
 
 More details in community forum:
