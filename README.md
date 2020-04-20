@@ -6,7 +6,7 @@ iTAG, MLE-15 - two short beeps sound when turned on.
 TrackerPA - three short beeps when turned on.
 
 More details in community forum:
-https://community.kodular.io/t/source-code-itag-mle-15-bluetooth-4-0-ble/58734
+https://community.kodular.io/t/source-code-keychains-itag-and-mle-15-bluetooth-4-0-ble/58734
 
 Source code iTag.aia for Kodular IDE:
 https://www.kodular.io
